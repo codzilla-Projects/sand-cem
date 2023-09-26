@@ -1,0 +1,847 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sand\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-14 06:49+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: sand"
+
+#: lib/sand_theme_init.php:80
+msgid " Description"
+msgstr ""
+
+#: taxonomy-type.php:124 archive-property.php:125
+#: taxonomy-project_location.php:117 single-property.php:12
+#: single-property.php:229 index.php:771 index.php:1109 index.php:1432
+#: taxonomy-location.php:124
+msgid " EGP"
+msgstr ""
+
+#: lib/sand_functions.php:376
+msgid "\"email already exists.\""
+msgstr ""
+
+#: lib/sand_functions.php:397
+msgid "\"empty email.\""
+msgstr ""
+
+#: lib/sand_functions.php:255 lib/sand_functions.php:383
+msgid "\"empty password.\""
+msgstr ""
+
+#: lib/sand_functions.php:390
+msgid "\"empty phone.\""
+msgstr ""
+
+#: lib/sand_functions.php:262 lib/sand_functions.php:404
+msgid "\"empty user.\""
+msgstr ""
+
+#: lib/sand_functions.php:248
+msgid "\"Entered authentication information isn't correct\""
+msgstr ""
+
+#: lib/sand_functions.php:362
+msgid "\"failed to register.\""
+msgstr ""
+
+#: lib/sand_functions.php:369
+msgid "\"username already exists.\""
+msgstr ""
+
+#: single-project.php:195
+msgid "About"
+msgstr ""
+
+#: single-project.php:125 single-property.php:192
+msgid "about"
+msgstr ""
+
+#: lib/sand_functions.php:524 lib/sand_functions.php:929
+msgid "about can't be empty"
+msgstr ""
+
+#. page title
+#: lib/sand_theme_init.php:149
+msgid "About Page Options"
+msgstr ""
+
+#: theme_options/aboutUs_page_options.php:62
+msgid "About Page Settings"
+msgstr ""
+
+#: theme_options/home_page_options.php:65
+#: theme_options/aboutUs_page_options.php:74
+msgid "About Section"
+msgstr ""
+
+#. Name of the template
+msgid "About Template"
+msgstr ""
+
+#. parent slug
+#: lib/sand_theme_init.php:148
+msgid "About us options"
+msgstr ""
+
+#: lib/sand_meta.php:1122 lib/sand_meta.php:1135
+msgid "Add Font Icon"
+msgstr ""
+
+#: lib/sand_theme_init.php:65
+msgid "Add New"
+msgstr ""
+
+#: lib/sand_taxonomy.php:46 lib/sand_taxonomy.php:78
+msgid "Add New Location"
+msgstr ""
+
+#: lib/sand_taxonomy.php:18
+msgid "Add New Type"
+msgstr ""
+
+#: lib/sand_taxonomy.php:49 lib/sand_taxonomy.php:81
+msgid "Add or remove Locations"
+msgstr ""
+
+#: page-contact.php:51
+msgid "Address"
+msgstr ""
+
+#: lib/sand_functions.php:486
+msgid "Agent profile updated successfully."
+msgstr ""
+
+#: lib/sand_taxonomy.php:41 lib/sand_taxonomy.php:73
+msgid "All Locations"
+msgstr ""
+
+#: lib/sand_taxonomy.php:13
+msgid "All Types"
+msgstr ""
+
+#: header.php:149 header.php:161
+msgid "Arabic"
+msgstr ""
+
+#: lib/sand_functions.php:612 lib/sand_functions.php:1018
+#: lib/sand_functions.php:1072
+msgid "arabic about can't be empty"
+msgstr ""
+
+#: single-project.php:135 single-project.php:213 single-property.php:286
+msgid "Attachments"
+msgstr ""
+
+#: index.php:297 index.php:303
+msgid "Bath"
+msgstr ""
+
+#: index.php:1380
+msgid "Bathroom"
+msgstr ""
+
+#: lib/sand_functions.php:564 lib/sand_functions.php:970
+msgid "bathroom number can't be empty"
+msgstr ""
+
+#: lib/sand_meta.php:238
+msgid "Bathroom Numbers: "
+msgstr ""
+
+#: single-property.php:259
+msgid "Bathrooms"
+msgstr ""
+
+#: taxonomy-type.php:144 archive-property.php:145
+#: taxonomy-project_location.php:137 single-property.php:113 index.php:811
+#: index.php:1149 taxonomy-location.php:144
+msgid "Baths"
+msgstr ""
+
+#: taxonomy-type.php:133 archive-property.php:134
+#: taxonomy-project_location.php:126 single-property.php:100 index.php:261
+#: index.php:267 index.php:789 index.php:1127 taxonomy-location.php:133
+msgid "Bed"
+msgstr ""
+
+#: index.php:1346
+msgid "Bedroom"
+msgstr ""
+
+#: lib/sand_functions.php:559 lib/sand_functions.php:965
+msgid "bedroom number can't be empty"
+msgstr ""
+
+#: lib/sand_meta.php:224
+msgid "Bedroom Numbers: "
+msgstr ""
+
+#: single-property.php:263
+msgid "Bedrooms"
+msgstr ""
+
+#: lib/sand_meta.php:292 lib/sand_meta.php:733
+msgid "Brochure URL: "
+msgstr ""
+
+#: single-property.php:273
+msgid "Built Area"
+msgstr ""
+
+#: lib/sand_functions.php:569 lib/sand_functions.php:975
+msgid "built up area can't be empty"
+msgstr ""
+
+#: lib/sand_meta.php:24
+msgid "Button Text: "
+msgstr ""
+
+#: lib/sand_meta.php:36
+msgid "Button URL: "
+msgstr ""
+
+#: lib/sand_functions.php:595 lib/sand_functions.php:1001
+msgid "can't upload less than 3 images of gallery."
+msgstr ""
+
+#: lib/sand_functions.php:599 lib/sand_functions.php:1005
+msgid "can't upload more than 10 images of gallery."
+msgstr ""
+
+#: lib/sand_meta.php:1124 lib/sand_meta.php:1138
+msgid "Choose Font Icon"
+msgstr ""
+
+#: lib/sand_taxonomy.php:50 lib/sand_taxonomy.php:82
+msgid "Choose from the most used Locations"
+msgstr ""
+
+#: index.php:191
+msgid "Choose Property Status"
+msgstr ""
+
+#. Author of the theme
+msgid "Codezilla"
+msgstr ""
+
+#: single-property.php:234
+msgid "Commercial Property"
+msgstr ""
+
+#. page title
+#: lib/sand_theme_init.php:158
+msgid "Contact Page Options"
+msgstr ""
+
+#: theme_options/contactUs_page_options.php:27
+msgid "Contact Page Settings"
+msgstr ""
+
+#: theme_options/contactUs_page_options.php:37
+msgid "Contact Section"
+msgstr ""
+
+#. Name of the template
+msgid "Contact Template"
+msgstr ""
+
+#. parent slug
+#: lib/sand_theme_init.php:157
+msgid "Contact us options"
+msgstr ""
+
+#: page-contact.php:61
+msgid "Contacts"
+msgstr ""
+
+#: taxonomy-type.php:163 archive-property.php:164
+#: taxonomy-project_location.php:156 index.php:849 index.php:1187
+#: taxonomy-location.php:163
+msgid "Details"
+msgstr ""
+
+#: single-property.php:193 single-property.php:195
+msgid "details"
+msgstr ""
+
+#: single-property.php:270
+msgid "Down Payment"
+msgstr ""
+
+#: lib/sand_functions.php:574 lib/sand_functions.php:980
+msgid "down payment can be only numeric"
+msgstr ""
+
+#: lib/sand_meta.php:211
+msgid "Down Payment: "
+msgstr ""
+
+#: lib/sand_taxonomy.php:44 lib/sand_taxonomy.php:76
+msgid "Edit Location"
+msgstr ""
+
+#: lib/sand_taxonomy.php:16
+msgid "Edit Type"
+msgstr ""
+
+#: single-property.php:138
+msgid "EGP"
+msgstr ""
+
+#: header.php:145 header.php:165
+msgid "English"
+msgstr ""
+
+#: lib/sand_functions.php:1406
+msgid "Error during deletion of property."
+msgstr ""
+
+#: lib/sand_functions.php:1415
+msgid "Error during deletion of the translated property."
+msgstr ""
+
+#: single-project.php:159 single-project.php:325
+msgid "essentials"
+msgstr ""
+
+#: theme_options/aboutUs_page_options.php:79
+msgid "Experience Section"
+msgstr ""
+
+#: lib/sand_functions.php:663
+msgid "failed to add the property"
+msgstr ""
+
+#: lib/sand_functions.php:1063 lib/sand_functions.php:1107
+msgid "failed to update the property"
+msgstr ""
+
+#: single-property.php:199
+msgid "feature"
+msgstr ""
+
+#: lib/sand_meta.php:171
+msgid "Featured : (If yes check this)"
+msgstr ""
+
+#: theme_options/home_page_options.php:69
+msgid "Featured Cities Section"
+msgstr ""
+
+#: lib/sand_theme_init.php:73
+msgid "Featured Image"
+msgstr ""
+
+#: single-project.php:151 single-property.php:292
+msgid "Features"
+msgstr ""
+
+#: single-project.php:289
+msgid "features"
+msgstr ""
+
+#: page-contact.php:85
+msgid "Follow us"
+msgstr ""
+
+#: lib/sand_theme_init.php:110
+msgid "Footer Menu"
+msgstr ""
+
+#: single-property.php:255
+msgid "For rent"
+msgstr ""
+
+#: single-property.php:253
+msgid "For sale"
+msgstr ""
+
+#: theme_options/contactUs_page_options.php:36
+msgid "Form Section"
+msgstr ""
+
+#: lib/sand_functions.php:1306
+msgid "gallery can't be less than 3 images."
+msgstr ""
+
+#: lib/sand_functions.php:1311
+msgid "gallery can't be more than 10 images."
+msgstr ""
+
+#: lib/sand_theme_init.php:181
+msgid "Gallery Images"
+msgstr ""
+
+#: 404.php:17
+msgid "go to home page"
+msgstr ""
+
+#: lib/sand_meta.php:157
+msgid "Has installment plan : (If yes check this)"
+msgstr ""
+
+#: template-parts/page-title.php:32
+msgid "Home"
+msgstr ""
+
+#: index.php:1434
+msgid "Home For Sale"
+msgstr ""
+
+#. parent slug
+#: lib/sand_theme_init.php:139
+msgid "Home options"
+msgstr ""
+
+#. page title
+#: lib/sand_theme_init.php:140
+msgid "Home Page Options"
+msgstr ""
+
+#: theme_options/home_page_options.php:52
+msgid "Home Page Settings"
+msgstr ""
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "https://codzilla.net"
+msgstr ""
+
+#: lib/sand_meta.php:184
+msgid "If it's a Commercial property"
+msgstr ""
+
+#: single-property.php:276
+msgid "Land Area"
+msgstr ""
+
+#: lib/sand_meta.php:265
+msgid "Land Area: "
+msgstr ""
+
+#: single-project.php:183 single-project.php:393 single-property.php:211
+#: single-property.php:324
+msgid "Location"
+msgstr ""
+
+#: theme_options/aboutUs_page_options.php:76
+msgid "Location Section"
+msgstr ""
+
+#: lib/sand_taxonomy.php:52 lib/sand_taxonomy.php:84
+msgid "Locations"
+msgstr ""
+
+#: lib/sand_functions.php:530 lib/sand_functions.php:935
+msgid "locations can't be empty"
+msgstr ""
+
+#: lib/sand_theme_init.php:109
+msgid "Main Menu"
+msgstr ""
+
+#: theme_options/contactUs_page_options.php:38
+msgid "Map Section"
+msgstr ""
+
+#: theme_options/aboutUs_page_options.php:75
+msgid "Mission & Vision Section"
+msgstr ""
+
+#: lib/sand_taxonomy.php:47 lib/sand_taxonomy.php:79
+msgid "New Location Name"
+msgstr ""
+
+#: lib/sand_taxonomy.php:19
+msgid "New Type Name"
+msgstr ""
+
+#: archive-property.php:180 archive-projects.php:185
+msgid "Next"
+msgstr ""
+
+#: lib/sand_taxonomy.php:83
+msgid "No Classifications found."
+msgstr ""
+
+#: lib/sand_taxonomy.php:51
+msgid "No Locations found."
+msgstr ""
+
+#: lib/sand_theme_init.php:71
+msgid "Not found"
+msgstr ""
+
+#: lib/sand_theme_init.php:72
+msgid "Not found in Trash"
+msgstr ""
+
+#: template-parts/page-title.php:22 template-parts/page-title.php:43
+msgid "Page Not Found"
+msgstr ""
+
+#: lib/sand_taxonomy.php:14
+msgid "Parent Type"
+msgstr ""
+
+#: lib/sand_taxonomy.php:15
+msgid "Parent Type:"
+msgstr ""
+
+#: lib/sand_functions.php:1492
+msgid "Password has been changed successfully."
+msgstr ""
+
+#: lib/sand_functions.php:1483
+msgid "Password mismatch"
+msgstr ""
+
+#: single-project.php:235
+msgid "Payment Plans"
+msgstr ""
+
+#: single-project.php:143
+msgid "payment plans"
+msgstr ""
+
+#: lib/sand_taxonomy.php:40 lib/sand_taxonomy.php:72
+msgid "Popular Locations"
+msgstr ""
+
+#: archive-property.php:181 archive-projects.php:187
+msgid "Previous"
+msgstr ""
+
+#: single-property.php:229
+msgid "Price"
+msgstr ""
+
+#: lib/sand_functions.php:555 lib/sand_functions.php:960
+msgid "price can be only numeric"
+msgstr ""
+
+#: lib/sand_functions.php:551 lib/sand_functions.php:956
+msgid "price can't be empty"
+msgstr ""
+
+#: lib/sand_meta.php:198
+msgid "Price: "
+msgstr ""
+
+#: lib/sand_functions.php:582 lib/sand_functions.php:988
+msgid "project can't be empty"
+msgstr ""
+
+#: single-project.php:219
+msgid "project Document"
+msgstr ""
+
+#: lib/sand_meta.php:746
+msgid "Project Location: "
+msgstr ""
+
+#: taxonomy-project_location.php:21 archive-projects.php:43
+msgid "Projects Listing"
+msgstr ""
+
+#. Name of the template
+msgid "Projects Template"
+msgstr ""
+
+#: taxonomy-type.php:21 archive-property.php:22 taxonomy-location.php:21
+msgid "Properties Listing"
+msgstr ""
+
+#. Name of the template
+msgid "Properties Template"
+msgstr ""
+
+#: index.php:1536
+msgid "Property"
+msgstr ""
+
+#: lib/sand_functions.php:909
+msgid "property added successfully, please wait for confirmation."
+msgstr ""
+
+#: theme_options/home_page_options.php:67
+msgid "Property Category Section"
+msgstr ""
+
+#: theme_options/home_page_options.php:68
+msgid "Property Day Section"
+msgstr ""
+
+#: single-property.php:218
+msgid "Property Details"
+msgstr ""
+
+#: single-property.php:287
+msgid "Property Document"
+msgstr ""
+
+#: lib/sand_meta.php:114
+msgid "Property furnishing: "
+msgstr ""
+
+#: lib/sand_meta.php:319
+msgid "Property Location: "
+msgstr ""
+
+#: lib/sand_meta.php:60
+msgid "Property of The Day: "
+msgstr ""
+
+#: lib/sand_meta.php:333
+msgid "Property Project: "
+msgstr ""
+
+#: theme_options/home_page_options.php:66
+msgid "Property Section"
+msgstr ""
+
+#: lib/sand_meta.php:252
+msgid "Property Size: "
+msgstr ""
+
+#: index.php:185
+msgid "Property Status"
+msgstr ""
+
+#: single-property.php:249
+msgid "Property status"
+msgstr ""
+
+#: single-property.php:240 index.php:209 index.php:215
+msgid "Property Type"
+msgstr ""
+
+#: lib/sand_functions.php:1392
+msgid "property updated successfully."
+msgstr ""
+
+#: lib/sand_meta.php:279
+msgid "Ref No: "
+msgstr ""
+
+#: single-property.php:279
+msgid "Reference Number"
+msgstr ""
+
+#: lib/sand_functions.php:586 lib/sand_functions.php:992
+msgid "reference number can't be empty"
+msgstr ""
+
+#: lib/sand_theme_init.php:75
+msgid "Remove featured image"
+msgstr ""
+
+#: index.php:195
+msgid "Rent"
+msgstr ""
+
+#: taxonomy-type.php:100 archive-property.php:101
+#: taxonomy-project_location.php:93 single-property.php:68 index.php:723
+#: index.php:1061 taxonomy-location.php:100
+msgid "rent"
+msgstr ""
+
+#: lib/sand_meta.php:135
+msgid "Rental period: "
+msgstr ""
+
+#: lib/sand_functions.php:420
+msgid "Required field is missing."
+msgstr ""
+
+#: lib/sand_functions.php:190
+msgid "Required form field is missing"
+msgstr ""
+
+#: lib/sand_functions.php:1458
+msgid ""
+"Reset Password email has been sent to your email address, please cehck your "
+"inbox."
+msgstr ""
+
+#: index.php:193
+msgid "Sale"
+msgstr ""
+
+#: taxonomy-type.php:95 archive-property.php:96
+#: taxonomy-project_location.php:88 single-property.php:63 index.php:713
+#: index.php:1051 taxonomy-location.php:95
+msgid "sale"
+msgstr ""
+
+#. Name of the theme
+msgid "sand and CEM"
+msgstr ""
+
+#: lib/sand_taxonomy.php:39 lib/sand_taxonomy.php:71
+msgid "Search Locations"
+msgstr ""
+
+#: lib/sand_taxonomy.php:12
+msgid "Search Types"
+msgstr ""
+
+#: lib/sand_taxonomy.php:48 lib/sand_taxonomy.php:80
+msgid "Separate Locations with commas"
+msgstr ""
+
+#: theme_options/aboutUs_page_options.php:77
+msgid "Services Section"
+msgstr ""
+
+#: lib/sand_theme_init.php:74
+msgid "Set featured image"
+msgstr ""
+
+#: theme_options/home_page_options.php:64
+msgid "SLider Section"
+msgstr ""
+
+#: lib/sand_functions.php:1444
+msgid "Sorry, that Email address is not exist!"
+msgstr ""
+
+#: lib/sand_functions.php:1475
+msgid ""
+"Sorry, this reset-key is not valid anymore. Please request a new reset email "
+"and try again."
+msgstr ""
+
+#: lib/sand_functions.php:1469
+msgid ""
+"Sorry, this user is not exist. Please request a new reset email and try "
+"again."
+msgstr ""
+
+#: lib/sand_functions.php:1478
+msgid ""
+"Sorry, we did not find a valid reset-key. Please request a new reset email "
+"and try again."
+msgstr ""
+
+#: taxonomy-type.php:155 archive-property.php:156
+#: taxonomy-project_location.php:148 single-property.php:126
+#: single-property.php:273 single-property.php:276 index.php:833 index.php:1171
+#: index.php:1406 taxonomy-location.php:155
+msgid "Sqm"
+msgstr ""
+
+#: single-property.php:138
+msgid "Start From"
+msgstr ""
+
+#: lib/sand_taxonomy.php:37 lib/sand_taxonomy.php:69
+msgctxt "taxonomy general name"
+msgid "Location"
+msgstr ""
+
+#: lib/sand_taxonomy.php:10
+msgctxt "taxonomy general name"
+msgid "Types"
+msgstr ""
+
+#: lib/sand_taxonomy.php:38 lib/sand_taxonomy.php:70
+msgctxt "taxonomy singular name"
+msgid "Location"
+msgstr ""
+
+#: lib/sand_taxonomy.php:11
+msgctxt "taxonomy singular name"
+msgid "Type"
+msgstr ""
+
+#: theme_options/aboutUs_page_options.php:78
+msgid "Team Section"
+msgstr ""
+
+#: theme_options/home_page_options.php:70
+#: theme_options/aboutUs_page_options.php:80
+msgid "Testimonials Section"
+msgstr ""
+
+#: lib/sand_functions.php:277 lib/sand_functions.php:438
+msgid "The File extension or maximum size is violated."
+msgstr ""
+
+#. page_title
+#: lib/sand_theme_init.php:129
+msgid "Theme Options"
+msgstr ""
+
+#: lib/sand_functions.php:518 lib/sand_functions.php:923
+msgid "title can't be empty"
+msgstr ""
+
+#: lib/sand_taxonomy.php:20
+msgid "Type"
+msgstr ""
+
+#: lib/sand_functions.php:536 lib/sand_functions.php:941
+msgid "types can't be empty"
+msgstr ""
+
+#: lib/sand_taxonomy.php:45 lib/sand_taxonomy.php:77
+msgid "Update Location"
+msgstr ""
+
+#: lib/sand_taxonomy.php:17
+msgid "Update Type"
+msgstr ""
+
+#: lib/sand_theme_init.php:76
+msgid "Use as featured image"
+msgstr ""
+
+#: single-project.php:361 single-property.php:308
+msgid "Video"
+msgstr ""
+
+#: single-project.php:171 single-property.php:205
+msgid "video"
+msgstr ""
+
+#: lib/sand_meta.php:720
+msgid "Video URL:"
+msgstr ""
+
+#: lib/sand_meta.php:305
+msgid "Video URL: "
+msgstr ""
+
+#: index.php:1442
+msgid "View property"
+msgstr ""
+
+#: 404.php:15
+msgid ""
+"we are sorry but the page you are looking for doesn't exist or has been "
+"removed. please check or search again."
+msgstr ""
+
+#: lib/sand_theme_init.php:128
+msgid "Website options"
+msgstr ""
+
+#: index.php:117
+msgid "What are you looking for?"
+msgstr ""
+
+#: 404.php:14
+msgid "Whoops! something went wrong ?"
+msgstr ""

@@ -1,0 +1,239 @@
+/*** 
+
+====================================================================
+  Color Palate Style / Color Switcher Style
+====================================================================
+
+***/
+.home-section.layout-6 .wpcf7-form h2{
+	color:#fff;
+	margin-bottom:30px;
+}
+.home-section.layout-6 .wpcf7-form .form-group p{
+	margin-bottom:20px;
+}
+.layout-home8.search{
+    height: auto;
+    min-height: 470px;
+    background-color: var(--theme-default);
+    align-items: center;
+}
+.search-with-tab .tab-content .review-form .form-control::placeholder{
+    color: var(--theme-default);
+}
+.search-with-tab .nav-tabs .nav-item .nav-link.active{
+    border: 1px solid #fff;
+}
+.home-section.layout-6 .home-main .search-palate .container>.row{
+	height:auto;
+}
+.home-section.layout-6 .home-main .search-palate .container>.row input{
+	background-color: transparent!important;
+    border-color: var(--theme-default);
+	color: rgba(255, 255, 255, 0.8);
+}
+.home-section.layout-6 .home-main .search-palate .container>.row input::placeholder,
+.home-section.layout-6 .home-main .search-palate .container>.row label{
+	color: rgba(255, 255, 255, 0.8);
+}
+.home-section.layout-6 .home-main .search-palate .container>.row select{
+    color: rgba(255, 255, 255, 0.8);
+    padding: 10px 20px 10px;
+    line-height: inherit;
+}
+.color-palate {
+    background: #000 none repeat scroll 0 0;
+  -webkit-box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.1);
+  -ms-box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.1);
+  -o-box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.1);
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    z-index: 999;
+    height: 470px;
+    transition: all 0.5s ease 0s;
+    left: 0;
+    top: -600px;
+}
+
+
+.color-trigger {
+    cursor: pointer;
+}
+.color-trigger:before{
+  content:'';
+  position:absolute;
+  right:0px;
+  top:0px;
+  width:100%;
+  height:100%;
+}
+
+.color-trigger i {
+    color: var(--whiteColor);
+    font-size: 18px;
+    line-height: 40px;
+}
+.color-palate.visible-palate {
+   top: 132px;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow b{
+    border-color: rgba(255, 255, 255, 0.8) transparent transparent transparent;
+}
+/*** 
+
+====================================================================
+    Color Palate Style / Color Switcher Style
+====================================================================
+
+***/
+
+.colors-palate {
+    background: #fff none repeat scroll 0 0;
+    -webkit-box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    left: -460px;
+    text-align: center;
+    top: 0;
+    transition: all 0.5s ease 0s;
+    width: 460px;
+    z-index: 11;
+}
+body.rtl .colors-palate{
+	left:unset;
+	right:-460px
+}
+.colors-palate .home-search-6{
+    position: relative;
+}
+.colors-palate .home-search-6 .close{
+    position: absolute;
+    cursor: pointer;
+    top: 20px;
+    right: 20px;
+    color: #fff;
+}
+body.rtl .colors-palate .home-search-6 .close{
+	left:20px;
+	right:unset
+}
+.colors-palate form label,
+.color-palate form label{
+    text-align: left;
+    color: #fff;
+    width: 100%;
+}
+.color-palate form label{
+    width: auto;
+}
+.colors-palate .select2-container--default .select2-selection--single .select2-selection__rendered{
+    text-align: left;
+}
+.colors-palate .search-with-tab .tab-content .review-form .form-control, .advanced_search input.looking-for, 
+.colors-palate .select2-container--default .select2-selection--single .select2-selection__rendered{
+    padding: 20px!important;
+    color: #fff;
+}
+.colors-palate .vertical-search .left-sidebar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh - 30px);
+}
+.colors-palate-head {
+    background: #20303a none repeat scroll 0 0;
+    padding: 12px 0;
+    height: 100vh;
+}
+
+.colors-palate-head h6,
+.secondary-head h6 {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0px;
+    margin-top: 4px;
+    text-transform:uppercase;
+}
+
+
+
+.colors-trigger,
+.whats-fixed {
+    background: var(--primaryColor) none repeat scroll 0 0;
+    cursor: pointer;
+    height: 50px;
+    right: -50px;
+    position: absolute;
+    top: calc(50% - 50px);
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body.rtl .colors-trigger,
+body.rtl .whats-fixed{
+	left:-50px;
+	right:unset;
+}
+.colors-trigger:before,
+.whats-fixed:before{
+    content:'';
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100%;
+    height:100%;
+}
+body.rtl .colors-trigger:before,
+body.rtl .whats-fixed:before{
+	left:unset;
+	right:0
+}
+.colors-trigger i,
+.whats-fixed i {
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 40px;
+}
+
+.colors-palate.visibles-palate {
+    left: 0px;
+}
+body.rtl .colors-palate.visibles-palate {
+    left: unset;
+	right:0;
+}
+.fixed-overlay{
+    position: fixed;
+    height: 100vh;
+    background: rgb(0 0 0 /50%);
+    transition: all 0.5s ease 0s;
+    z-index: 9;
+}
+.fixed-overlay.full-width{
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.whats-fixed{
+    top: calc(50% + 0px);
+    position: fixed;
+    left: 0;
+	right:unset;
+    z-index: 9;
+    border-top: 1px solid #fff;
+}
+body.rtl .whats-fixed{
+	left:unset;
+	right:0;
+}

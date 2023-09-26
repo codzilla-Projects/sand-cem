@@ -1,0 +1,956 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sand\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-13 20:22+0000\n"
+"PO-Revision-Date: 2023-09-02 13:37+0000\n"
+"Last-Translator: realestate\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.3.1\n"
+"X-Domain: sand"
+
+#: taxonomy-type.php:124 archive-property.php:246
+#: taxonomy-project_location.php:117 search.php:355 single-property.php:23
+#: single-property.php:463 index.php:782 index.php:1118 index.php:1443
+#: taxonomy-location.php:124
+msgid " AED"
+msgstr "  درهم إماراتى"
+
+#: lib/sand_theme_init.php:80
+msgid " Description"
+msgstr ""
+
+#: lib/sand_functions.php:376
+msgid "\"email already exists.\""
+msgstr ""
+
+#: lib/sand_functions.php:397
+msgid "\"empty email.\""
+msgstr ""
+
+#: lib/sand_functions.php:255 lib/sand_functions.php:383
+msgid "\"empty password.\""
+msgstr ""
+
+#: lib/sand_functions.php:390
+msgid "\"empty phone.\""
+msgstr ""
+
+#: lib/sand_functions.php:262 lib/sand_functions.php:404
+msgid "\"empty user.\""
+msgstr ""
+
+#: lib/sand_functions.php:248
+msgid "\"Entered authentication information isn't correct\""
+msgstr ""
+
+#: lib/sand_functions.php:362
+msgid "\"failed to register.\""
+msgstr ""
+
+#: lib/sand_functions.php:369
+msgid "\"username already exists.\""
+msgstr ""
+
+#: single-project.php:195
+msgid "About"
+msgstr "عن الوحدة"
+
+#: single-project.php:125 single-property.php:386
+msgid "about"
+msgstr "عن الوحدة"
+
+#: lib/sand_functions.php:524 lib/sand_functions.php:929
+msgid "about can't be empty"
+msgstr ""
+
+#. page title
+#: lib/sand_theme_init.php:149
+msgid "About Page Options"
+msgstr ""
+
+#: theme_options/aboutUs_page_options.php:62
+msgid "About Page Settings"
+msgstr ""
+
+#: theme_options/home_page_options.php:65
+#: theme_options/aboutUs_page_options.php:74
+msgid "About Section"
+msgstr ""
+
+#. Name of the template
+msgid "About Template"
+msgstr ""
+
+#. parent slug
+#: lib/sand_theme_init.php:148
+msgid "About us options"
+msgstr ""
+
+#: lib/sand_meta.php:1122 lib/sand_meta.php:1135
+msgid "Add Font Icon"
+msgstr ""
+
+#: lib/sand_theme_init.php:65
+msgid "Add New"
+msgstr ""
+
+#: lib/sand_taxonomy.php:46 lib/sand_taxonomy.php:78
+msgid "Add New Location"
+msgstr ""
+
+#: lib/sand_taxonomy.php:18
+msgid "Add New Type"
+msgstr ""
+
+#: lib/sand_taxonomy.php:49 lib/sand_taxonomy.php:81
+msgid "Add or remove Locations"
+msgstr ""
+
+#: page-contact.php:100
+msgid "Address"
+msgstr "العنوان"
+
+#: single-property.php:274
+msgid "AED"
+msgstr " درهم إماراتى"
+
+#: lib/sand_functions.php:486
+msgid "Agent profile updated successfully."
+msgstr ""
+
+#: index.php:401 template-parts/page-title.php:323
+msgid "All Furnishing"
+msgstr "جميع المفروشات"
+
+#: lib/sand_taxonomy.php:41 lib/sand_taxonomy.php:73
+msgid "All Locations"
+msgstr ""
+
+#: footer.php:197
+msgid "All Right Reserved"
+msgstr "جميع الحقوق محفوظة"
+
+#: lib/sand_taxonomy.php:13
+msgid "All Types"
+msgstr ""
+
+#: header.php:151 header.php:163
+msgid "Arabic"
+msgstr "العربية"
+
+#: lib/sand_functions.php:612 lib/sand_functions.php:1018
+#: lib/sand_functions.php:1072
+msgid "arabic about can't be empty"
+msgstr ""
+
+#: footer.php:488
+msgid "Area: "
+msgstr "المنطقة:"
+
+#: single-project.php:135 single-project.php:213 single-property.php:419
+#: single-property.php:611
+msgid "Attachments"
+msgstr "المرفقات"
+
+#: footer.php:374 footer.php:380 index.php:161 index.php:317
+#: template-parts/page-title.php:82 template-parts/page-title.php:239
+msgid "Bath"
+msgstr "حمام"
+
+#: index.php:1391
+msgid "Bathroom"
+msgstr "الحمام"
+
+#: lib/sand_functions.php:564 lib/sand_functions.php:970
+msgid "bathroom number can't be empty"
+msgstr ""
+
+#: lib/sand_meta.php:238
+msgid "Bathroom Numbers: "
+msgstr ""
+
+#: single-property.php:523
+msgid "Bathrooms"
+msgstr "الحمامات"
+
+#: taxonomy-type.php:144 archive-property.php:286
+#: taxonomy-project_location.php:137 search.php:376 single-property.php:225
+#: index.php:822 index.php:1158 taxonomy-location.php:144
+msgid "Baths"
+msgstr "الحمامات"
+
+#: taxonomy-type.php:133 archive-property.php:264
+#: taxonomy-project_location.php:126 search.php:365 footer.php:338
+#: footer.php:344 single-property.php:199 index.php:146 index.php:302
+#: index.php:800 index.php:1136 taxonomy-location.php:133
+#: template-parts/page-title.php:67 template-parts/page-title.php:224
+msgid "Bed"
+msgstr "غرف"
+
+#: index.php:1357
+msgid "Bedroom"
+msgstr "غرفة نوم"
+
+#: lib/sand_functions.php:559 lib/sand_functions.php:965
+msgid "bedroom number can't be empty"
+msgstr ""
+
+#: lib/sand_meta.php:224
+msgid "Bedroom Numbers: "
+msgstr ""
+
+#: single-property.php:531
+msgid "Bedrooms"
+msgstr "غرف النوم"
+
+#: lib/sand_meta.php:292 lib/sand_meta.php:733
+msgid "Brochure URL: "
+msgstr ""
+
+#: single-property.php:551
+msgid "Built Area"
+msgstr "مساحة المباني"
+
+#: lib/sand_functions.php:569 lib/sand_functions.php:975
+msgid "built up area can't be empty"
+msgstr ""
+
+#: lib/sand_meta.php:24
+msgid "Button Text: "
+msgstr ""
+
+#: lib/sand_meta.php:36
+msgid "Button URL: "
+msgstr ""
+
+#: lib/sand_functions.php:595 lib/sand_functions.php:1001
+msgid "can't upload less than 3 images of gallery."
+msgstr ""
+
+#: lib/sand_functions.php:599 lib/sand_functions.php:1005
+msgid "can't upload more than 10 images of gallery."
+msgstr ""
+
+#: theme_options/home_page_options.php:416
+#: theme_options/aboutUs_page_options.php:231
+msgid "Choose Category"
+msgstr ""
+
+#: lib/sand_meta.php:1124 lib/sand_meta.php:1138
+msgid "Choose Font Icon"
+msgstr ""
+
+#: lib/sand_taxonomy.php:50 lib/sand_taxonomy.php:82
+msgid "Choose from the most used Locations"
+msgstr ""
+
+#: footer.php:258
+msgid "Choose Property Status"
+msgstr "اختر حالة الملكية"
+
+#. Author of the theme
+msgid "Codezilla"
+msgstr ""
+
+#: single-property.php:473
+msgid "Commercial Property"
+msgstr "العقارات التجارية"
+
+#. page title
+#: lib/sand_theme_init.php:158
+msgid "Contact Page Options"
+msgstr ""
+
+#: theme_options/contactUs_page_options.php:27
+msgid "Contact Page Settings"
+msgstr ""
+
+#. Name of the template
+msgid "Contact Template"
+msgstr ""
+
+#: footer.php:115 page-contact.php:120
+#, fuzzy
+#| msgid "Contacts"
+msgid "Contact us"
+msgstr "تواصل معنا"
+
+#. parent slug
+#: lib/sand_theme_init.php:157
+msgid "Contact us options"
+msgstr ""
+
+#: footer.php:197
+msgid "Copyright"
+msgstr "حقوق النشر"
+
+#: index.php:413 template-parts/page-title.php:335
+msgid "Daily"
+msgstr "يوميا"
+
+#: taxonomy-type.php:163 archive-property.php:324
+#: taxonomy-project_location.php:156 search.php:397 index.php:860
+#: index.php:1196 taxonomy-location.php:163
+msgid "Details"
+msgstr "التفاصيل"
+
+#: single-property.php:388 single-property.php:392
+msgid "details"
+msgstr "التفاصيل"
+
+#: single-property.php:545
+msgid "Down Payment"
+msgstr "دفعة مبدئية"
+
+#: lib/sand_functions.php:574 lib/sand_functions.php:980
+msgid "down payment can be only numeric"
+msgstr ""
+
+#: lib/sand_meta.php:211
+msgid "Down Payment: "
+msgstr "دفعة مبدئية:"
+
+#: lib/sand_taxonomy.php:44 lib/sand_taxonomy.php:76
+msgid "Edit Location"
+msgstr ""
+
+#: lib/sand_taxonomy.php:16
+msgid "Edit Type"
+msgstr ""
+
+#: header.php:147 header.php:167
+msgid "English"
+msgstr "الانجليزية"
+
+#: lib/sand_functions.php:1406
+msgid "Error during deletion of property."
+msgstr ""
+
+#: lib/sand_functions.php:1415
+msgid "Error during deletion of the translated property."
+msgstr ""
+
+#: single-project.php:159 single-project.php:325
+msgid "essentials"
+msgstr ""
+
+#: theme_options/aboutUs_page_options.php:79
+msgid "Experience Section"
+msgstr ""
+
+#: lib/sand_functions.php:663
+msgid "failed to add the property"
+msgstr ""
+
+#: lib/sand_functions.php:1063 lib/sand_functions.php:1107
+msgid "failed to update the property"
+msgstr ""
+
+#: search.php:332
+msgid "Featured"
+msgstr ""
+
+#: lib/sand_meta.php:171
+msgid "Featured : (If yes check this)"
+msgstr ""
+
+#: theme_options/home_page_options.php:69
+msgid "Featured Cities Section"
+msgstr ""
+
+#: lib/sand_theme_init.php:73
+msgid "Featured Image"
+msgstr ""
+
+#: single-project.php:151 single-property.php:579
+msgid "Features"
+msgstr "ميزات الوحدة"
+
+#: single-project.php:289 single-property.php:400 single-property.php:453
+msgid "features"
+msgstr "ميزات الوحدة"
+
+#: footer.php:51 page-contact.php:168
+msgid "Follow us"
+msgstr "تابعنا"
+
+#: lib/sand_theme_init.php:110
+msgid "Footer Menu"
+msgstr ""
+
+#: search.php:297 footer.php:262 index.php:707 index.php:1044
+msgid "For Rent"
+msgstr "للإيجار"
+
+#: single-property.php:515 index.php:105 template-parts/page-title.php:26
+msgid "For rent"
+msgstr "للإيجار"
+
+#: archive-property.php:166 search.php:294 footer.php:260 index.php:701
+#: index.php:1038
+msgid "For Sale"
+msgstr "للبيع"
+
+#: single-property.php:511 index.php:103 template-parts/page-title.php:24
+msgid "For sale"
+msgstr "للبيع"
+
+#: archive-property.php:172
+msgid "Fore Rent"
+msgstr "للإيجار"
+
+#: theme_options/contactUs_page_options.php:36
+msgid "Form Section"
+msgstr ""
+
+#: index.php:402 template-parts/page-title.php:324
+msgid "Furnished"
+msgstr "مفروشة"
+
+#: lib/sand_functions.php:1306
+msgid "gallery can't be less than 3 images."
+msgstr ""
+
+#: lib/sand_functions.php:1311
+msgid "gallery can't be more than 10 images."
+msgstr ""
+
+#: lib/sand_theme_init.php:181
+msgid "Gallery Images"
+msgstr ""
+
+#: 404.php:17
+msgid "go to home page"
+msgstr ""
+
+#: lib/sand_meta.php:157
+msgid "Has installment plan : (If yes check this)"
+msgstr ""
+
+#: template-parts/page-title.php:410
+msgid "Home"
+msgstr "الرئيسية"
+
+#. parent slug
+#: lib/sand_theme_init.php:139
+msgid "Home options"
+msgstr ""
+
+#. page title
+#: lib/sand_theme_init.php:140
+msgid "Home Page Options"
+msgstr ""
+
+#: theme_options/home_page_options.php:52
+msgid "Home Page Settings"
+msgstr ""
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "https://codzilla.net"
+msgstr ""
+
+#: lib/sand_meta.php:184
+msgid "If it's a Commercial property"
+msgstr ""
+
+#: single-property.php:557
+msgid "Land Area"
+msgstr "مساحة المباني"
+
+#: lib/sand_meta.php:265
+msgid "Land Area: "
+msgstr "مساحة المباني:"
+
+#: single-project.php:183 single-project.php:393 single-property.php:427
+#: single-property.php:653
+msgid "Location"
+msgstr "موقع الوحدة"
+
+#: theme_options/home_page_options.php:411
+#: theme_options/aboutUs_page_options.php:226
+msgid "Location Category"
+msgstr ""
+
+#: theme_options/aboutUs_page_options.php:76
+msgid "Location Section"
+msgstr ""
+
+#: footer.php:97 lib/sand_taxonomy.php:52 lib/sand_taxonomy.php:84
+msgid "Locations"
+msgstr "المواقع"
+
+#: lib/sand_functions.php:530 lib/sand_functions.php:935
+msgid "locations can't be empty"
+msgstr ""
+
+#: footer.php:276
+msgid "Looking For"
+msgstr "البحث عن"
+
+#: footer.php:277 index.php:113 index.php:270 template-parts/page-title.php:34
+#: template-parts/page-title.php:192
+msgid "looking for"
+msgstr "البحث عن"
+
+#: lib/sand_theme_init.php:109
+msgid "Main Menu"
+msgstr ""
+
+#: theme_options/contactUs_page_options.php:37
+msgid "Map Section"
+msgstr ""
+
+#: index.php:241 index.php:392 template-parts/page-title.php:163
+#: template-parts/page-title.php:314
+msgid "Max. Area"
+msgstr "المساحة القصوى"
+
+#: index.php:230 index.php:381 template-parts/page-title.php:152
+#: template-parts/page-title.php:303
+msgid "Max. Price"
+msgstr "السعر الاقصي"
+
+#: index.php:236 index.php:386 template-parts/page-title.php:158
+#: template-parts/page-title.php:308
+msgid "Min. Area"
+msgstr "المساحة الادنى"
+
+#: index.php:225 index.php:375 template-parts/page-title.php:147
+#: template-parts/page-title.php:297
+msgid "Min. Price"
+msgstr "السعر الادنى"
+
+#: theme_options/aboutUs_page_options.php:75
+msgid "Mission & Vision Section"
+msgstr ""
+
+#: index.php:412 template-parts/page-title.php:334
+msgid "Monthly"
+msgstr "شهريا"
+
+#: lib/sand_taxonomy.php:47 lib/sand_taxonomy.php:79
+msgid "New Location Name"
+msgstr ""
+
+#: lib/sand_taxonomy.php:19
+msgid "New Type Name"
+msgstr ""
+
+#: archive-property.php:356 search.php:419 archive-projects.php:155
+msgid "Next"
+msgstr ""
+
+#: lib/sand_taxonomy.php:83
+msgid "No Classifications found."
+msgstr ""
+
+#: lib/sand_taxonomy.php:51
+msgid "No Locations found."
+msgstr ""
+
+#: lib/sand_theme_init.php:71
+msgid "Not found"
+msgstr ""
+
+#: lib/sand_theme_init.php:72
+msgid "Not found in Trash"
+msgstr ""
+
+#: template-parts/page-title.php:390 template-parts/page-title.php:432
+msgid "Page Not Found"
+msgstr ""
+
+#: lib/sand_taxonomy.php:14
+msgid "Parent Type"
+msgstr ""
+
+#: lib/sand_taxonomy.php:15
+msgid "Parent Type:"
+msgstr ""
+
+#: index.php:404 template-parts/page-title.php:326
+msgid "Partly Furnished"
+msgstr "مفروش جزئيا"
+
+#: lib/sand_functions.php:1492
+msgid "Password has been changed successfully."
+msgstr ""
+
+#: lib/sand_functions.php:1483
+msgid "Password mismatch"
+msgstr ""
+
+#: single-project.php:235
+msgid "Payment Plans"
+msgstr "خطط الدفع"
+
+#: single-project.php:143
+msgid "payment plans"
+msgstr "خطط الدفع"
+
+#: lib/sand_taxonomy.php:40 lib/sand_taxonomy.php:72
+msgid "Popular Locations"
+msgstr ""
+
+#: archive-property.php:358 search.php:420 archive-projects.php:157
+msgid "Previous"
+msgstr ""
+
+#: single-property.php:463
+msgid "Price"
+msgstr "السعر"
+
+#: lib/sand_functions.php:555 lib/sand_functions.php:960
+msgid "price can be only numeric"
+msgstr ""
+
+#: lib/sand_functions.php:551 lib/sand_functions.php:956
+msgid "price can't be empty"
+msgstr ""
+
+#: footer.php:470 lib/sand_meta.php:198
+msgid "Price: "
+msgstr "السعر:"
+
+#: lib/sand_functions.php:582 lib/sand_functions.php:988
+msgid "project can't be empty"
+msgstr ""
+
+#: single-project.php:219
+msgid "project Document"
+msgstr ""
+
+#: lib/sand_meta.php:746
+msgid "Project Location: "
+msgstr ""
+
+#: taxonomy-project_location.php:21 archive-projects.php:43
+msgid "Projects Listing"
+msgstr "قائمة المشاريع"
+
+#. Name of the template
+msgid "Projects Template"
+msgstr ""
+
+#: taxonomy-type.php:21 archive-property.php:43 taxonomy-location.php:21
+msgid "Properties Listing"
+msgstr "قائمة الوحدات"
+
+#. Name of the template
+msgid "Properties Template"
+msgstr ""
+
+#: page-about.php:243 index.php:1545
+msgid "Property"
+msgstr "وحدة"
+
+#: lib/sand_functions.php:909
+msgid "property added successfully, please wait for confirmation."
+msgstr ""
+
+#: theme_options/home_page_options.php:67
+msgid "Property Category Section"
+msgstr ""
+
+#: theme_options/home_page_options.php:68
+msgid "Property Day Section"
+msgstr ""
+
+#: single-property.php:441
+msgid "Property Details"
+msgstr "تفاصيل الوحدة"
+
+#: single-property.php:613
+msgid "Property Document"
+msgstr "وثيقة الملكية"
+
+#: lib/sand_meta.php:114
+msgid "Property furnishing: "
+msgstr ""
+
+#: lib/sand_meta.php:319
+msgid "Property Location: "
+msgstr ""
+
+#: lib/sand_meta.php:60
+msgid "Property of The Day: "
+msgstr ""
+
+#: lib/sand_meta.php:333
+msgid "Property Project: "
+msgstr ""
+
+#: theme_options/home_page_options.php:66
+msgid "Property Section"
+msgstr ""
+
+#: lib/sand_meta.php:252
+msgid "Property Size: "
+msgstr ""
+
+#: footer.php:252
+msgid "Property Status"
+msgstr "حالة الملكية"
+
+#: single-property.php:503
+msgid "Property status"
+msgstr "اختر حالة الملكية"
+
+#: footer.php:286 footer.php:292 single-property.php:485 index.php:121
+#: index.php:277 template-parts/page-title.php:42
+#: template-parts/page-title.php:199
+msgid "Property Type"
+msgstr "نوع الملكية"
+
+#: lib/sand_functions.php:1392
+msgid "property updated successfully."
+msgstr ""
+
+#: lib/sand_meta.php:279
+msgid "Ref No: "
+msgstr ""
+
+#: single-property.php:563
+msgid "Reference Number"
+msgstr "الرقم المرجعى "
+
+#: lib/sand_functions.php:586 lib/sand_functions.php:992
+msgid "reference number can't be empty"
+msgstr ""
+
+#: lib/sand_theme_init.php:75
+msgid "Remove featured image"
+msgstr ""
+
+#: taxonomy-type.php:100 taxonomy-project_location.php:93
+#: single-property.php:135 taxonomy-location.php:100
+msgid "rent"
+msgstr "ايجار"
+
+#: lib/sand_meta.php:135
+msgid "Rental period: "
+msgstr ""
+
+#: lib/sand_functions.php:420
+msgid "Required field is missing."
+msgstr ""
+
+#: lib/sand_functions.php:190
+msgid "Required form field is missing"
+msgstr ""
+
+#: lib/sand_functions.php:1458
+msgid ""
+"Reset Password email has been sent to your email address, please cehck your "
+"inbox."
+msgstr ""
+
+#: taxonomy-type.php:95 taxonomy-project_location.php:88
+#: single-property.php:125 taxonomy-location.php:95
+msgid "sale"
+msgstr "بيع"
+
+#: footer.php:502 index.php:176 index.php:332 template-parts/page-title.php:97
+#: template-parts/page-title.php:254
+msgid "Search"
+msgstr "بحث"
+
+#. Name of the template
+msgid "search"
+msgstr ""
+
+#: lib/sand_taxonomy.php:39 lib/sand_taxonomy.php:71
+msgid "Search Locations"
+msgstr ""
+
+#: lib/sand_taxonomy.php:12
+msgid "Search Types"
+msgstr ""
+
+#: footer.php:410 footer.php:416 index.php:196 index.php:349
+#: template-parts/page-title.php:118 template-parts/page-title.php:271
+msgid "Select project"
+msgstr "اختر المشروع"
+
+#: lib/sand_taxonomy.php:48 lib/sand_taxonomy.php:80
+msgid "Separate Locations with commas"
+msgstr ""
+
+#: theme_options/aboutUs_page_options.php:77
+msgid "Services Section"
+msgstr ""
+
+#: lib/sand_theme_init.php:74
+msgid "Set featured image"
+msgstr ""
+
+#: index.php:185 index.php:340 template-parts/page-title.php:106
+#: template-parts/page-title.php:262
+msgid "Show commercial properties only"
+msgstr "عرض العقارات التجارية فقط"
+
+#: index.php:250 template-parts/page-title.php:172
+msgid "Show properties with installment plans only"
+msgstr "عرض العقارات مع خطط التقسيط فقط"
+
+#: theme_options/home_page_options.php:64
+msgid "SLider Section"
+msgstr ""
+
+#: lib/sand_functions.php:1444
+msgid "Sorry, that Email address is not exist!"
+msgstr ""
+
+#: lib/sand_functions.php:1475
+msgid ""
+"Sorry, this reset-key is not valid anymore. Please request a new reset email "
+"and try again."
+msgstr ""
+
+#: lib/sand_functions.php:1469
+msgid ""
+"Sorry, this user is not exist. Please request a new reset email and try "
+"again."
+msgstr ""
+
+#: lib/sand_functions.php:1478
+msgid ""
+"Sorry, we did not find a valid reset-key. Please request a new reset email "
+"and try again."
+msgstr ""
+
+#: search.php:387
+msgid "Sq Ft"
+msgstr ""
+
+#: taxonomy-type.php:155 archive-property.php:308
+#: taxonomy-project_location.php:148 single-property.php:251
+#: single-property.php:551 single-property.php:557 index.php:844 index.php:1180
+#: index.php:1417 taxonomy-location.php:155
+msgid "Sqm"
+msgstr "متر مربع"
+
+#: single-property.php:278
+msgid "Start From"
+msgstr "يبدأ من"
+
+#: lib/sand_taxonomy.php:37 lib/sand_taxonomy.php:69
+msgctxt "taxonomy general name"
+msgid "Location"
+msgstr ""
+
+#: lib/sand_taxonomy.php:10
+msgctxt "taxonomy general name"
+msgid "Types"
+msgstr ""
+
+#: lib/sand_taxonomy.php:38 lib/sand_taxonomy.php:70
+msgctxt "taxonomy singular name"
+msgid "Location"
+msgstr ""
+
+#: lib/sand_taxonomy.php:11
+msgctxt "taxonomy singular name"
+msgid "Type"
+msgstr ""
+
+#: theme_options/aboutUs_page_options.php:78
+msgid "Team Section"
+msgstr ""
+
+#: theme_options/home_page_options.php:70
+#: theme_options/aboutUs_page_options.php:80
+msgid "Testimonials Section"
+msgstr ""
+
+#: lib/sand_functions.php:277 lib/sand_functions.php:438
+msgid "The File extension or maximum size is violated."
+msgstr ""
+
+#. page_title
+#: lib/sand_theme_init.php:129
+msgid "Theme Options"
+msgstr ""
+
+#: lib/sand_functions.php:518 lib/sand_functions.php:923
+msgid "title can't be empty"
+msgstr ""
+
+#: lib/sand_taxonomy.php:20
+msgid "Type"
+msgstr ""
+
+#: lib/sand_functions.php:536 lib/sand_functions.php:941
+msgid "types can't be empty"
+msgstr ""
+
+#: index.php:403 template-parts/page-title.php:325
+msgid "Unfurnished"
+msgstr "غير مفروش"
+
+#: lib/sand_taxonomy.php:45 lib/sand_taxonomy.php:77
+msgid "Update Location"
+msgstr ""
+
+#: lib/sand_taxonomy.php:17
+msgid "Update Type"
+msgstr ""
+
+#: lib/sand_theme_init.php:76
+msgid "Use as featured image"
+msgstr ""
+
+#: single-project.php:361 single-property.php:621
+msgid "Video"
+msgstr "فيديو الوحدة"
+
+#: single-project.php:171 single-property.php:412
+msgid "video"
+msgstr "فيديو الوحدة"
+
+#: lib/sand_meta.php:720
+msgid "Video URL:"
+msgstr ""
+
+#: lib/sand_meta.php:305
+msgid "Video URL: "
+msgstr ""
+
+#: archive-projects.php:111 archive-projects.php:125
+msgid "View Project"
+msgstr "رؤية المشروع"
+
+#: index.php:1451
+msgid "View property"
+msgstr "عرض الممتلكات"
+
+#: 404.php:15
+msgid ""
+"we are sorry but the page you are looking for doesn't exist or has been "
+"removed. please check or search again."
+msgstr ""
+
+#: search.php:429
+msgid "We currently have no properties matching your search."
+msgstr ""
+
+#: lib/sand_theme_init.php:128
+msgid "Website options"
+msgstr ""
+
+#: 404.php:14
+msgid "Whoops! something went wrong ?"
+msgstr ""
+
+#. Name of the theme
+msgid "sand realesta"
+msgstr ""
